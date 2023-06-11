@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Zhubaidi
-- 👀 I’m interested in IT Infrastructure and IT Security
+- 👋 Hi, I’m @SubchanaZhubaidi
+- 👀 I’m interested in learning programming and cybersecurity
 - 🌱 I’m currently learning IT Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email miziimoklet@gmail.com
